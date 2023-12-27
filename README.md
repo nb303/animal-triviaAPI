@@ -30,7 +30,7 @@ Have the following installed
     docker-compose up --build
     ```
 5. Access the API at
-   [http://localhost:3001](http://localhost:3001)
+   [localhost:3001](http://localhost:3001)
 
   
 
