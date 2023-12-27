@@ -29,8 +29,8 @@ Have the following installed
    ```bash
     docker-compose up --build
     ```
-5. Access the API at
-   [localhost:3001](http://localhost:3001)
+5. Access the API at http://localhost:3001/
+
 
   
 
