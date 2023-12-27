@@ -7,7 +7,6 @@ A simple API for animal trivia facts! Built with Go, Fiber, and PostgreSQL.
 Have the following installed
 
 - [Docker](https://www.docker.com/get-started)
-- [Go](https://golang.org/doc/install)
 - [PostgreSQL](https://www.postgresql.org/download/)
 
 1. Clone the repository
@@ -19,7 +18,7 @@ Have the following installed
     cd animal-triviaAPI
     ```
 3. Set up your environment variables in a .env file
-  ```env
+   ```
     DB_USER=your_postgres_user
     DB_PASSWORD=your_postgres_password
     DB_NAME=your_database_name
@@ -30,6 +29,14 @@ Have the following installed
     docker-compose up --build
     ```
 5. Access the API at http://localhost:3001/
+
+
+## Technologies Used
+Programmed using Go and the Fiber web framework. Uses PostgreSQL as the database and containerized with Docker, tested with Insomnia. 
+
+
+
+
 
 
   
