@@ -1,6 +1,6 @@
 # animal-triviaAPI
 
-A simple API for animal trivia facts! Built with Go, Fiber, and PostgreSQL.
+A RESTful API for animal trivia facts! Built with Go, Fiber, and PostgreSQL.
 
 ## To Use
 
